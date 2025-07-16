@@ -37,10 +37,9 @@
 
 5. Устанавливаем необходимые зависимоти
 
-	Нам необходимо скачать или получить файл `requirements_cp312-2.3.2.txt` 
-из репозитория [rknn-toolkit2]
-(https://github.com/airockchip/rknn-toolkit2/tree/master)
-по пути `./rknn-toolkit2/packages/x86_64/`. Помещаем этот файл в папку 
+Необходимо скачать или получить файл `requirements_cp312-2.3.2.txt` из репозитория [rknn-toolkit2]
+([https://github.com/airockchip/rknn-toolkit2/tree/master](https://github.com/airockchip/rknn-toolkit2/tree/master/rknn-toolkit2/packages/x86_64))
+Помещаем этот файл в папку 
 виртуального окружения и выполняем команду
 
 	```bash
